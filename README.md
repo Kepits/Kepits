@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm a Software Developer! 👋
 
-<!--
-**Kepits/Kepits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A hobbyist developer focused on Lua scripting, backend management, and building clean web experiences. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I Do
+* **Scripting & Security:** Deep diving into Luau development, obfuscation techniques, and code optimization.
+* **Web & Databases:** Managing server-side logic and modern databases like **Cloudflare D1 SQL**.
+* **Current Main Project:** Developing and deploying **Electrowave** ⚡
+
+### 🛠️ Tech Stack
+* **Languages:** Lua / Luau, SQL, HTML/CSS, JavaScript, C#
+* **Tools & Platforms:** Cloudflare, Git/GitHub, Neovim/VisualStudio
+
+### 🌌 Beyond Coding
+* 🖥️ Tech enthusiast & hardware optimizer.
+* ⛩️ Big fan of *Code Geass* and *Bleach*.
+
+---
+*“If the king does not lead, how can he expect his subordinates to follow?”*
