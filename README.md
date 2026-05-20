@@ -10,7 +10,7 @@ A hobbyist developer focused on Lua scripting, backend management, and building 
 * Current Main Project: Developing and deploying [ Electrowave ]
 
 ### [/] Tech Stack
-* Languages: Lua / Luau, SQL, HTML/CSS, JavaScript
+* Languages: Lua / Luau, SQL, HTML/CSS, JavaScript, C/C#
 * Tools & Platforms: Cloudflare, Git/GitHub, JetBrains/VisualStudio
 
 ### [*] Beyond Coding
